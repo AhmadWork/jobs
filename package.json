@@ -16,7 +16,7 @@
     "lodash": "^4.17.11",
     "native-base": "^2.8.1",
     "pods": "^2.0.0",
-    "qs": "^6.5.2",
+    "qs": "^6.5.3",
     "react": "16.3.1",
     "react-native": "https://github.com/expo/react-native/archive/sdk-29.0.0.tar.gz",
     "react-native-elements": "^0.19.1",
